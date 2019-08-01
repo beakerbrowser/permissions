@@ -1,6 +1,6 @@
 {
   "name": "@beaker/permissions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Methods and constants for handling permissions in Beaker",
   "main": "index.js",
   "scripts": {
